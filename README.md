@@ -4,19 +4,19 @@ Acest proiect reprezintă un sintetizator audio cu sequencer integrat, dezvoltat
 
 ## Structura Repository-ului
 
-* `/src` - Conține codul sursă al proiectului (PlatformIO / C++).
-* `/hardware` - Conține schema electrică (PDF/Fișiere sursă).
+* `/src` - Conține codul sursă al proiectului (C).
+* `/hardware` - Conține schema electrică.
 * `/images` - Fotografii cu montajul fizic și interfața.
 
 ## Galerie Foto
 
 Iată cum arată proiectul asamblat fizic:
 
-![Panoul frontal](images/panou frontal.jpeg)
+![Panoul frontal](images/panou_frontal.jpeg)
 
 ![Circuitele](images/circuit.jpeg)
 
-![Panoul din interior](images/panou interior.jpeg)
+![Panoul din interior](images/panou_interior.jpeg)
 
 ## Schema Hardware
 
